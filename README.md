@@ -16,7 +16,7 @@ Previously built 7–8 financial news crawlers deployed on AWS at Eucaps Ltd., a
 
 ## Get in Touch
 
-📍 Dortmund, Germany &nbsp;|&nbsp; 🇬🇧 English (fluent) · 🇩🇪 Deutsch (B1) &nbsp;|&nbsp; 📬 niloysaha.887@gmail.com
+📍 Dortmund, Germany &nbsp;|&nbsp; 🇬🇧 English (fluent) · 🇩🇪 Deutsch (B1) &nbsp;|&nbsp; 📬 niloysaha.887@gmail.com | niloy.saha@niloy.dev
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niloysaharoy-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/niloysaharoy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Niloy009-181717?style=flat&logo=github)](https://github.com/Niloy009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niloysaharoy-0077B5?style=flat&logo=linkedin)](https://linkedin.niloy.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Niloy009-181717?style=flat&logo=github)](https://github.niloy.dev)
