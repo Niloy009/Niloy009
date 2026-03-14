@@ -52,7 +52,7 @@
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Niloy009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -67,4 +67,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
+</div> -->
