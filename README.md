@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NiloySahaRoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.niloy.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Niloy009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.niloy.dev)
-[![Email](https://img.shields.io/badge/Email-niloysaha.887%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloy.saha@niloy.dev)
+[![Email](https://img.shields.io/badge/Email-niloy.saha%40niloy.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloy.saha@niloy.dev)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Niloy009&color=6366f1&style=for-the-badge&label=Profile+Views) -->
 
 </div>
