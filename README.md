@@ -61,6 +61,7 @@
 | Project | Description |
 |---------|-------------|
 | 🎙️ [**End-to-End Voice AI Pipeline**](https://github.com/Niloy009/voice-assistant-pipeline) | Fully local voice assistant (Whisper ASR → Llama 3.1 8B → ElevenLabs TTS) with fuzzy-matching QA evaluation |
+| 🏗️ [**Job Market Pipeline**](https://github.com/Niloy009/job-market-pipeline) | End-to-end data engineering pipeline — Airbyte → BigQuery → Dagster orchestration → LLaMA 3.1 skill extraction, provisioned with Terraform |
 | 🧠 [**Deep Learning Image Classification**](https://github.com/Niloy009/pytorch_experiment_tracking) | Modular PyTorch pipeline with EfficientNet & TensorBoard experiment tracking on Food-101 |
 | 🌦️ [**Weather Impact on Vegetable Cultivation**](https://github.com/Niloy009/vege_weather_impact_de) | Reproducible Snakemake pipeline analyzing 14 years of DWD + Destatis data in Brandenburg |
 
